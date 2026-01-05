@@ -20,4 +20,4 @@ Conoce más sobre nuestro stack tecnológico en [Stack Tecnológico](./stack.md)
 
 ---
 
-Descubre cual es nuestro flujo de trabajo y propuesta de valor en [Perks: Nuestra Propuesta de Valor Actual](./perks.md).
+Descubre cual es nuestra propuesta de valor en [Perks: Nuestra Propuesta de Valor Actual](./perks.md).
